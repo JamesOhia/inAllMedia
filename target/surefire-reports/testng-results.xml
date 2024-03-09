@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-11T15:31:48Z" name="Suite" finished-at="2024-01-11T15:32:09Z" duration-ms="21438">
+    <groups>
+    </groups>
+    <test started-at="2024-01-11T15:31:48Z" name="LoginTest" finished-at="2024-01-11T15:32:09Z" duration-ms="21438">
+      <class name="actions.LoginTest">
+        <test-method is-config="true" signature="reportSetup()[pri:0, instance:actions.LoginTest@31304f14]" started-at="2024-01-11T16:31:48Z" name="reportSetup" finished-at="2024-01-11T16:31:48Z" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:actions.LoginTest@31304f14]" started-at="2024-01-11T16:31:48Z" name="startUp" finished-at="2024-01-11T16:31:56Z" duration-ms="8302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="LoginInvalidUsername()[pri:1, instance:actions.LoginTest@31304f14]" started-at="2024-01-11T16:31:56Z" name="LoginInvalidUsername" finished-at="2024-01-11T16:32:03Z" duration-ms="6651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginInvalidUsername -->
+        <test-method signature="LoginInvalidPassword()[pri:2, instance:actions.LoginTest@31304f14]" started-at="2024-01-11T16:32:03Z" name="LoginInvalidPassword" finished-at="2024-01-11T16:32:05Z" duration-ms="2170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginInvalidPassword -->
+        <test-method signature="LoginLockedAccount()[pri:3, instance:actions.LoginTest@31304f14]" started-at="2024-01-11T16:32:05Z" name="LoginLockedAccount" finished-at="2024-01-11T16:32:06Z" duration-ms="1161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginLockedAccount -->
+        <test-method signature="loginSuccess()[pri:4, instance:actions.LoginTest@31304f14]" started-at="2024-01-11T16:32:06Z" name="loginSuccess" finished-at="2024-01-11T16:32:09Z" duration-ms="2886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccess -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:actions.LoginTest@31304f14]" started-at="2024-01-11T16:32:09Z" name="TearDown" finished-at="2024-01-11T16:32:09Z" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="reportTearDown()[pri:0, instance:actions.LoginTest@31304f14]" started-at="2024-01-11T16:32:09Z" name="reportTearDown" finished-at="2024-01-11T16:32:10Z" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTearDown -->
+      </class> <!-- actions.LoginTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- Suite -->
+</testng-results>

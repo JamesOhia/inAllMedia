@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Suite" preserve-order="true">
+	<test name="LoginTest">
+		<classes>
+			<class name="actions.LoginTest" />
+		</classes>
+	</test>
+
+		<!--<test name="Test2">
+            <classes>
+                <class name="actions.RegistrationPageTest" />
+            </classes>
+        </test>
+
+        <test name="Test3">
+            <classes>
+                <class name="actions.UserLoginTest" />
+            </classes>
+        </test>
+
+        <test name="Test4">
+            <classes>
+                <class name="actions.ForgotPasswordTest" />
+            </classes>
+        </test>-->
+
+</suite>

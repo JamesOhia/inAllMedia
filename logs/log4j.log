@@ -1,0 +1,5 @@
+[INFO ] 2019-08-24 09:57:26.137 [main] log4jLogging - Info
+[ERROR] 2019-08-24 09:57:26.141 [main] log4jLogging - Error
+[WARN ] 2019-08-24 09:57:26.142 [main] log4jLogging - warn
+[FATAL] 2019-08-24 09:57:26.142 [main] log4jLogging - fatal
+[TRACE] 2019-08-24 09:57:26.143 [main] log4jLogging - Trace
